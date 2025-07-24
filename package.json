@@ -1,0 +1,24 @@
+{
+  "name": "unit-5-hello-express",
+  "version": "1.0.0",
+  "description": "In this exercise, we will be using the Express Node.js framework to write our first server.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephens6623/unit-5-hello-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephens6623/unit-5-hello-express/issues"
+  },
+  "homepage": "https://github.com/Stephens6623/unit-5-hello-express#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
